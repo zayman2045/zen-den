@@ -1,0 +1,31 @@
+Overview:
+    Zen Den is a webpage focused on overall wellness...
+
+    It is created using HTML, CSS and JavaScript, and includes a number of imported stylesheets and frameworks including 
+
+index.html:
+...
+
+meditate.html:
+...
+
+journal.html:
+...
+
+exercise.html:
+...
+
+nutrition.html:
+...
+
+education.html:
+...
+
+styles.css:
+    The style-sheet begins with a comment that displays the color pallet used for styling the page, which was obtained using the color pallet generator at coolers.com. I chose this color pallet because I felt that it was cool and calming, which goes along with the website's theme of being made for unwinding and overall wellness. The style-sheet continues with a large section for everything that I consider to be a "global" style, which pertain to the elements that appear on all pages of the website.
+    ...(break down the global styles)
+
+    ...(break down the subsection styles)
+
+script.js:
+...

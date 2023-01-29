@@ -1,0 +1,117 @@
+/* 
+Color Palette
+--eggplant: #734b5eff;
+--melon: #f3b3a6ff;
+--glaucous: #7d8cc4ff;
+--gunmetal: #022b3aff;
+--aero-blue: #c2e7d9ff; */
+
+/* ************* GLOBAL ************ */
+
+body {
+  background-color: #022b3aff;
+}
+
+header {
+  background-color: #c2e7d9ff;
+  padding: 5px;
+}
+
+h1 {
+  color: #022b3aff;
+  margin: 0px;
+}
+
+h2 {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+header a {
+  color: #022b3aff;
+  padding: 7px;
+}
+
+#tagline {
+  font-size: small;
+}
+
+header a:visited {
+  text-decoration: dashed;
+  color: #022b3aff;
+}
+
+.navbar {
+  background-color: #7d8cc4;
+  padding: 0px;
+}
+
+.navbar li {
+  display: inline;
+  font-size: 18px;
+  padding: 15px;
+  margin: auto;
+}
+
+li a:link {
+  color: white;
+  padding: 10px;
+}
+
+li a:visited {
+  color: white;
+}
+
+li a:hover {
+  color: #022b3aff;
+}
+
+.navbar li a.active {
+  border-style: solid;
+  border-radius: 20px 5px;
+  border-color: #022b3aff;
+  border-width: 4px;
+  color: #022b3aff;
+}
+
+.random {
+  border-style: solid;
+  border-radius: 50px 5px;
+  border-color: #c2e7d9ff;
+  border-width: 2px;
+  padding: 15px;
+  color: white;
+}
+
+.quote-item {
+  width: 400px;
+  text-align: center;
+  margin: auto;
+}
+
+/* ************* Meditate ************ */
+
+.btn-meditate {
+  margin: 10px 10px;
+}
+
+.meditation-item {
+  text-align: center;
+}
+
+/* ************* Journal ************ */
+.journal-item {
+  text-align: center;
+}
+
+.journal-item textarea {
+  background-color: #c2e7d9ff;
+  width: 400px;
+  height: 300px;
+}
+
+/* #journal-submit {
+} */
